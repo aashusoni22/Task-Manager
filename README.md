@@ -69,8 +69,6 @@ To test install and offline capabilities:
 ```bash
 npm run build && npm run preview
 ```
-
->>>>>>> 9a58cb8 (PWA app implemented)
 2. Open the app in your browser (usually at http://localhost:4173)
 3. Open DevTools → Application → Manifest
 4. Click Install or Add to Home Screen
@@ -97,8 +95,6 @@ Feel free to fork, clone, modify, and build upon it for personal or commercial u
 ## 👨‍💻 Author
 
 Aashutosh Soni
-
->>>>>>> 9a58cb8 (PWA app implemented)
 - Portfolio: [https://aashutosh-dev-porfolio.vercel.app](https://aashutosh-dev-porfolio.vercel.app/)
 - Github: [https://github.com/aashusoni22](https://github.com/aashusoni22/)
 - LinkedIn: [https://linkedin.com/in/soni2205](https://linkedin.com/in/soni2205)
