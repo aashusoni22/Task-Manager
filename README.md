@@ -4,6 +4,10 @@ A simple, clean, and responsive task manager built with **React**, **TypeScript*
 
 ---
 
+## 🌐 Live Demo
+👉 View the live app here
+[https://task-manager-cyan-omega-66.vercel.app](https://task-manager-cyan-omega-66.vercel.app/)
+
 ## 🚀 Features
 
 - ✅ Add, edit, complete, and delete tasks
@@ -74,9 +78,6 @@ npm run build && npm run preview
 4. Click Install or Add to Home Screen
 5. Test offline mode by enabling Offline in DevTools → Application → Service Workers
 
-## 🌐 Live Demo
-👉 View the live app here
-[task-manager-cyan-omega-66.vercel.app](https://task-manager-cyan-omega-66.vercel.app/)
 
 ## 📌 Future Improvements
 - Drag-and-drop task reordering
