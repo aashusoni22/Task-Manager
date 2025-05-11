@@ -76,7 +76,7 @@ npm run build && npm run preview
 
 ## 🌐 Live Demo
 👉 View the live app here
-(replace with your deployed app link)
+[task-manager-cyan-omega-66.vercel.app](https://task-manager-cyan-omega-66.vercel.app/)
 
 ## 📌 Future Improvements
 - Drag-and-drop task reordering
