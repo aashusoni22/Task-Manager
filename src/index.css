@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("./assets/fonts/satoshi/Satoshi-Regular.woff2") format("woff2"),
+    url("./assets/fonts/satoshi/Satoshi-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Satoshi", sans-serif;
+}

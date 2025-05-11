@@ -38,6 +38,7 @@ A simple, clean, and responsive task manager built with **React**, **TypeScript*
 ## 📦 Installation
 
 ### 1️⃣ Clone the repo:
+
 ```bash
 git clone https://github.com/aashusoni22/task-manager-pwa.git
 cd task-manager-pwa
@@ -60,12 +61,16 @@ npm run preview
 ```
 
 ## 📱 Test as a PWA
+
 To test install and offline capabilities:
 
 1. Run the app using:
+
 ```bash
 npm run build && npm run preview
 ```
+
+>>>>>>> 9a58cb8 (PWA app implemented)
 2. Open the app in your browser (usually at http://localhost:4173)
 3. Open DevTools → Application → Manifest
 4. Click Install or Add to Home Screen
@@ -85,11 +90,15 @@ npm run build && npm run preview
 - Dark mode toggle (optional add-on)
 
 ## 📄 License
-This project is licensed under the MIT License. 
+
+This project is licensed under the MIT License.
 Feel free to fork, clone, modify, and build upon it for personal or commercial use.
 
 ## 👨‍💻 Author
+
 Aashutosh Soni
+
+>>>>>>> 9a58cb8 (PWA app implemented)
 - Portfolio: [https://aashutosh-dev-porfolio.vercel.app](https://aashutosh-dev-porfolio.vercel.app/)
 - Github: [https://github.com/aashusoni22](https://github.com/aashusoni22/)
 - LinkedIn: [https://linkedin.com/in/soni2205](https://linkedin.com/in/soni2205)
